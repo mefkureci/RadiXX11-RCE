@@ -1,0 +1,58 @@
+______                                                                          
+LEGEND                                                                          
+ииииии                                                                          
++ New Feature                                                                   
+- Removed Feature                                                               
+* Fixed or Improved Feature                                                     
+                                                                                
+_________                                                                       
+CHANGELOG                                                                       
+иииииииии                                                                       
+v1.13 (2022-01-28)                                                              
+* Code patterns updated for Process Lasso 10.4.3.24+ (x64)                      
+                                                                                
+v1.12 (2021-09-06)                                                              
+* Code patterns updated for ParkControl 1.4.0.12+                               
+                                                                                
+v1.11 (2021-03-31)                                                              
+* Code patterns updated for Process Lasso 10.0.1.16+                            
+                                                                                
+v1.10 (2021-03-12)                                                              
++ "News & Announcements" option to check for the latest news about my site or   
+any other important announcement.                                               
+* Code patterns updated for Process Lasso 10.x.x.x+                             
+* Minor tweaks and improvements to the UI.                                      
+                                                                                
+v1.9 (2020-06-16)                                                               
+* Code patterns updated for Process Lasso 9.8.1.16+                             
+                                                                                
+v1.8 (2020-01-31)                                                               
+* Code patterns updated for Process Lasso 9.6.0.68+                             
+                                                                                
+v1.7 (2019-08-25)                                                               
+* Minor fix for Process Lasso 9.3.0.44+ (x86)                                   
+                                                                                
+v1.6 (2019-07-31)                                                               
+* Updated code patterns for 9.3.0.22+                                           
+                                                                                
+v1.5 (2018-11-22)                                                               
+* File vistammsc.exe was removed from patch list (no longer needed).            
+                                                                                
+v1.4 (2018-03-12)                                                               
+* Update to support Process Lasso 9.0.0.440+                                    
+* Some corrections.                                                             
+                                                                                
+v1.3 (2018-01-25)                                                               
+* Update to support ParkControl 1.2.7.6+                                        
++ New redesigned interface.                                                     
++ Patch update check option.                                                    
++ Full command line support with silent and very silent operation modes.        
+                                                                                
+v1.2 (2017-08-01)                                                               
+* Fix for CPU Balance (x64) 1.0.0.68+ and Process Lasso (x64) 9.0.0.390+        
+                                                                                
+v1.1 (2017-05-11)                                                               
+* Minor fix for ParkControl 1.2.5.8+                                            
+                                                                                
+v1.0 (2017-04-20)                                                               
++ First release.                                                                

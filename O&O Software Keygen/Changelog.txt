@@ -1,0 +1,69 @@
+______                                                                          
+LEGEND                                                                          
+ииииии                                                                          
++ New Feature                                                                   
+- Removed Feature                                                               
+* Fixed or Improved Feature                                                     
+                                                                                
+_________                                                                       
+CHANGELOG                                                                       
+иииииииии                                                                       
+v1.17 (2022-11-17)                                                              
++ Updated support for DiskImage 18.x                                            
+                                                                                
+v1.16 (2022-09-13)                                                              
++ Updated support for Defrag 26.x                                               
+                                                                                
+v1.15 (2022-04-07)                                                              
++ Updated support for SafeErase 17.x                                            
+                                                                                
+v1.14 (2022-01-25)                                                              
++ Updated support for BlueCon 19.x                                              
+                                                                                
+v1.13 (2021-10-26)                                                              
++ Updated support for DiskImage 17.x                                            
+                                                                                
+v1.12 (2021-09-14)                                                              
++ Updated support for Defrag 25.x                                               
+                                                                                
+v1.11 (2021-03-06)                                                              
++ Updated support for BlueCon 18.x                                              
+                                                                                
+v1.10 (2021-02-22)                                                              
++ Updated support for BrowserPrivacy 16.x                                       
+                                                                                
+v1.9 (2021-02-20)                                                               
++ Updated support for Defrag 24.x, DiskImage 16.x and SafeErase 16.x            
++ New "Options" menu with misc functions like "News & Announcements" and "Check 
+For Updates".                                                                   
+* Minor tweaks and improvements to the UI.                                      
+                                                                                
+v1.8 (2020-04-13)                                                               
++ Added support for Enterprise Management Console (EMC) 4.x, 5.x and 6.x        
+* Redesigned product selection list. Product bundles like BlueCon and EMC now   
+have their own subentries for modules.                                          
+                                                                                
+v1.7 (2020-04-04)                                                               
++ Added support for DiskErase 14.x                                              
+                                                                                
+v1.6 (2020-03-20)                                                               
+* Updated support for BlueCon 17.x                                              
+                                                                                
+v1.5 (2020-02-19)                                                               
+* Updated support for SafeErase 15.x                                            
+                                                                                
+v1.4 (2019-10-29)                                                               
++ Added support for FileErase 14.x                                              
+* Updated support for DiskImage 15.x                                            
+                                                                                
+v1.3 (2019-09-04)                                                               
++ Updated support for Defrag 23.x                                               
+                                                                                
+v1.2 (2019-08-28)                                                               
++ Added support for BrowserPrivacy 14.x                                         
+                                                                                
+v1.1 (2019-05-11)                                                               
++ Added support for MediaRecovery 14.x                                          
+                                                                                
+v1.0 (2019-05-09)                                                               
++ First release.                                                                

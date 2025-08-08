@@ -1,0 +1,45 @@
+______                                                                          
+LEGEND                                                                          
+ииииии                                                                          
++ New Feature                                                                   
+- Removed Feature                                                               
+* Fixed or Improved Feature                                                     
+                                                                                
+_________                                                                       
+CHANGELOG                                                                       
+иииииииии                                                                       
+v1.9 (2022-02-21)                                                               
+* Small fix for version 6.1.1.0                                                 
+                                                                                
+v1.8 (2021-10-09)                                                               
+* Fixed additional license check during image conversion.                       
+                                                                                
+v1.7 (2021-09-29)                                                               
++ Improved interface.                                                           
+* Fixed small activation issue with version 6.0.9.0                             
+                                                                                
+v1.6 (2021-02-15)                                                               
+* Fixed small activation issue.                                                 
+                                                                                
+v1.5 (2021-02-15)                                                               
+* Code patterns updated for version 6.0.6.0+                                    
+                                                                                
+v1.4 (2020-06-10)                                                               
+* Code patterns updated for version 6.0.2.0+                                    
+                                                                                
+v1.3 (2020-01-06)                                                               
+* Patch renamed to "Light Image Resizer 6.x Patch"                              
+* Code patterns updated for version 6.0.0.24+                                   
+                                                                                
+v1.2 (2019-02-25)                                                               
++ New redesigned UI.                                                            
++ Command line options for silent and very silent operation.                    
++ Patch update check option.                                                    
+* Added support for version 5.1.4.x                                             
+                                                                                
+v1.1 (2017-06-07)                                                               
+* Minor fix in code pattern.                                                    
+* Small UI changes.                                                             
+                                                                                
+v1.0 (2017-02-14)                                                               
++ First release.                                                                

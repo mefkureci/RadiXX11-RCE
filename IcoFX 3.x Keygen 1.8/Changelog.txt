@@ -1,0 +1,37 @@
+______                                                                          
+LEGEND                                                                          
+ииииии                                                                          
++ New Feature                                                                   
+- Removed Feature                                                               
+* Fixed or Improved Feature                                                     
+                                                                                
+_________                                                                       
+CHANGELOG                                                                       
+иииииииии                                                                       
+v1.8 (2022-10-18)                                                               
++ Added support for IcoFX 3.8                                                   
+                                                                                
+v1.7 (2022-03-01)                                                               
++ Added support for IcoFX 3.7                                                   
+                                                                                
+v1.6 (2021-09-07)                                                               
++ Added support for IcoFX 3.6                                                   
+                                                                                
+v1.5 (2021-02-02)                                                               
++ Added support for IcoFX 3.5                                                   
+                                                                                
+v1.4 (2020-04-14)                                                               
++ Added support for IcoFX 3.4                                                   
+                                                                                
+v1.3 (2019-01-20)                                                               
++ Added support for IcoFX 3.3                                                   
+                                                                                
+v1.2 (2018-08-06)                                                               
++ Added support for IcoFX 3.2                                                   
++ Keygen update check option.                                                   
+                                                                                
+v1.1 (2017-09-11)                                                               
++ Added support for IcoFX 3.1                                                   
+                                                                                
+v1.0 (2017-03-21)                                                               
++ First release.                                                                
